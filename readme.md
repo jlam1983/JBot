@@ -1,4 +1,4 @@
-# JLLMBot Architecture Guide
+# JLLMBot Architecture Guide (Beta)
 
 ## Overview
 
